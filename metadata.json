@@ -1,0 +1,6 @@
+{
+  "name": "Timetable Generator App",
+  "description": "A high-performance, interactive college timetable builder featuring drag-and-drop scheduling, automated color coding, multi-period merging, and high-fidelity PDF/PNG exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
