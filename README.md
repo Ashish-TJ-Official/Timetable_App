@@ -1,20 +1,28 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Timetable App
 
-# Run and deploy your AI Studio app
+A versatile, lightweight, browser-based web application designed to build and customize your class and daily schedules effortlessly. Built for fast client-side performance and automated deployment via GitHub Actions.
 
-This contains everything you need to run your app locally.
+## 🌟 Key Features
 
-View your app in AI Studio: https://ai.studio/apps/3304eeb4-ca9a-4f8c-ac63-2320457a402b
+- **Client-Side Schedule Management:** All schedule operations run locally within your web browser - ensuring high speed, zero backend overhead, and maximum privacy.
+- **Fast & Responsive Interface:** Clean, intuitive UI optimized across desktop and mobile browsers.
+- **Automated CI/CD:** Integrated GitHub Actions workflow for seamless deployment directly to GitHub Pages.
+- **Zero API Dependencies:** Operates fully standalone with no third-party API keys or external services required.
 
-## Run Locally
+## 🚀 Live Demo
 
-**Prerequisites:**  Node.js
+Access the live application here:  
+👉 [https://ashish-tj-official.github.io/Timetable_App/](https://ashish-tj-official.github.io/Timetable_App/)
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛠️ Local Development Setup
+
+### Prerequisites
+Make sure you have [Node.js](https://nodejs.org/) installed on your system.
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Ashish-TJ-Official/Timetable_App.git](https://github.com/Ashish-TJ-Official/Timetable_App.git)
